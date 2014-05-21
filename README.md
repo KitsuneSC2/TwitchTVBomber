@@ -2,7 +2,6 @@
 
 What you need:
 
-=================================
 
 1)   Proxy for each account you use
 
@@ -14,7 +13,6 @@ What you need:
 
 Account List should look like
 
-=================================
 
 1)   username:oauth:oauthtoken (iamthegod:oauth:102391024nrthtgwqtgh)
 
@@ -22,7 +20,6 @@ Account List should look like
 
 Proxy list should look like (Out of the box it only supports HTTP proxys, you can change this to socks4 or 5 if you look where it sets the proxy)
 
-=================================
 
 1)   127.0.0.1:5343
 
@@ -32,7 +29,6 @@ Proxy list should look like (Out of the box it only supports HTTP proxys, you ca
 
 Usage
 
-=================================
 
 1)   python2 chatbomber.py
 
