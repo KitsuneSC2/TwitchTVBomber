@@ -1,7 +1,7 @@
 What you need:
-•   Proxy for each account you use
-•   TwitchTV accounts
-•   An OAUTH token for chat_login
+   Proxy for each account you use
+   TwitchTV accounts
+   An OAUTH token for chat_login
 
 Account List should look like
    username:oauth:oauthtoken (iamthegod:oauth:102391024nrthtgwqtgh)
