@@ -1,4 +1,5 @@
 What you need:
+
    Proxy for each account you use
    TwitchTV accounts
    An OAUTH token for chat_login
