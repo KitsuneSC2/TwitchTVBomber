@@ -40,7 +40,6 @@ Usage
 
 Recommended
 
-=================================
 
 1)   I recommend making 10-20 accounts manually and generating oauths or using an account creator to do it
 
