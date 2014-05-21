@@ -30,7 +30,7 @@ Proxy list should look like (Out of the box it only supports HTTP proxys, you ca
 Usage
 
 
-1)   python2 chatbomber.py
+1)   python2 TwitchTV_Bomb.py
 
 2)   channel> nightblue3
 
