@@ -1,33 +1,53 @@
+=================================
+
 What you need:
 
-•   Proxy for each account you use
+=================================
 
-•   TwitchTV accounts
+1)   Proxy for each account you use
 
-•   An OAUTH token for chat_login
+2)   TwitchTV accounts
+
+3)   An OAUTH token for chat_login
+
+=================================
 
 Account List should look like
 
-•   username:oauth:oauthtoken (iamthegod:oauth:102391024nrthtgwqtgh)
+=================================
+
+1)   username:oauth:oauthtoken (iamthegod:oauth:102391024nrthtgwqtgh)
+
+=================================
 
 Proxy list should look like (Out of the box it only supports HTTP proxys, you can change this to socks4 or 5 if you look where it sets the proxy)
 
-•   127.0.0.1:5343
+=================================
 
-•   234.66.156.123:55356
+1)   127.0.0.1:5343
+
+2)   234.66.156.123:55356
+
+=================================
 
 Usage
 
-•   python2 chatbomber.py
+=================================
 
-•   channel> sirhcez
+1)   python2 chatbomber.py
 
-•   message> ay yo sirhcez is gay
+2)   channel> nightblue3
+
+3)   message> ay yo sirhcez is gay
+
+=================================
 
 Recommended
 
-•   I recommend making 10-20 accounts manually and generating oauths or using an account creator to do it
+=================================
 
-•   Using proxy scrapers for working proxys
+1)   I recommend making 10-20 accounts manually and generating oauths or using an account creator to do it
 
-•   You NEED proxys for this or all of your accounts will get banned AUTOMATICALLY. Don't be STUPID then ask me questions about why you can't get this to work.
+2)   Using proxy scrapers for working proxys
+
+3)   You NEED proxys for this or all of your accounts will get banned AUTOMATICALLY. Don't be STUPID then ask me questions about why you can't get this to work.
