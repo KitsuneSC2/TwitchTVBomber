@@ -32,7 +32,7 @@ def connectToChat(account, proxy, channel, message):
     threading.Thread(target=listenForData, args=[socket]).start()
     sleep(11)
     while True:
-                socket.send("PRIVMSG #%s :%s %d\n" % (channel, message, random.randrange(10000, 99999)))
+                socket.send("PRIVMSG #%s :%s %d\n" % (channel, message, random.randrange(51234, 98765)))
                 sleep(2.5)
  
 for account in range(len(accounts)):                
