@@ -34,7 +34,7 @@ Usage
 
 2)   channel> nightblue3
 
-3)   message> ay yo sirhcez is gay
+3)   message> NightBlue is 2sexy4me
 
 =================================
 
